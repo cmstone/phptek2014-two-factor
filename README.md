@@ -1,4 +1,4 @@
-phptek2014-two-factor
-=====================
+2014-04-two-factor
+==================
 
-Two Factor Authentication sample code
+Two Factor Authentication
