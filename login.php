@@ -26,6 +26,10 @@ if (!empty($_POST['key'])) {
             <td><?= $_GET['username']; ?></td>
         </tr>
         <tr>
+            <td>Secret Key:</td>
+            <td><?= $_GET['secret']; ?></td>
+        </tr>
+        <tr>
             <td>Secret Code:</td>
             <td><input type="text" name="key" id="key" value="<?= $_GET['key']; ?>" />&nbsp;<input type="submit" name="submit" id="submit" />
             </td>
